@@ -1,6 +1,3 @@
-# This code will not run from the Portal
-# Copy the code your favorite Python Editor
-
 from tkinter import *
 screen=Tk()
 
